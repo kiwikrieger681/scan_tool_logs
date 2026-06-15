@@ -153,13 +153,7 @@
         "ip": "192.168.179.2",
         "hostname": "",
         "state": "up",
-        "ports": [
-            {
-                "port": 113,
-                "protocol": "tcp",
-                "state": "closed"
-            }
-        ]
+        "ports": []
     },
     {
         "ip": "192.168.179.20",
