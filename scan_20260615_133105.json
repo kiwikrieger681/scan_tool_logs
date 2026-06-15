@@ -1,0 +1,313 @@
+[
+    {
+        "ip": "192.168.179.1",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 53,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.14",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 3389,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.17",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 135,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 445,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 1433,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 2049,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 3389,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.18",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 53,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 80,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 88,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 135,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 139,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 389,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 443,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 445,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 3389,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.19",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 53,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 88,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 135,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 139,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 389,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 445,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 3389,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.2",
+        "hostname": "",
+        "state": "up",
+        "ports": []
+    },
+    {
+        "ip": "192.168.179.20",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 80,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 88,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 135,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 389,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 443,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 445,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 3389,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.21",
+        "hostname": "pi.hole",
+        "state": "up",
+        "ports": [
+            {
+                "port": 22,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 53,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 80,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 111,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 443,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.3",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 80,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.38",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 80,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.40",
+        "hostname": "",
+        "state": "up",
+        "ports": [
+            {
+                "port": 135,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 139,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 445,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.49",
+        "hostname": "",
+        "state": "up",
+        "ports": []
+    },
+    {
+        "ip": "192.168.179.58",
+        "hostname": "pc1-base-03.fritz.box",
+        "state": "up",
+        "ports": []
+    },
+    {
+        "ip": "192.168.179.66",
+        "hostname": "raspberrypi.fritz.box",
+        "state": "up",
+        "ports": [
+            {
+                "port": 22,
+                "protocol": "tcp",
+                "state": "open"
+            },
+            {
+                "port": 8080,
+                "protocol": "tcp",
+                "state": "open"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.179.7",
+        "hostname": "",
+        "state": "up",
+        "ports": []
+    }
+]
