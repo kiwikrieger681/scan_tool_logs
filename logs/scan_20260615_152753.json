@@ -288,23 +288,6 @@
         "ports": []
     },
     {
-        "ip": "192.168.179.50",
-        "hostname": "ubuntu.fritz.box",
-        "state": "up",
-        "ports": [
-            {
-                "port": 22,
-                "protocol": "tcp",
-                "state": "open"
-            },
-            {
-                "port": 8080,
-                "protocol": "tcp",
-                "state": "open"
-            }
-        ]
-    },
-    {
         "ip": "192.168.179.58",
         "hostname": "pc1-base-03.fritz.box",
         "state": "up",
@@ -312,7 +295,7 @@
     },
     {
         "ip": "192.168.179.66",
-        "hostname": "",
+        "hostname": "raspberrypi.fritz.box",
         "state": "up",
         "ports": [
             {
